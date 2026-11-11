@@ -15,5 +15,5 @@
 - Date of submission: 2026-11-09
 - Author Notes  
 	Custom cover featuring a high-quality scan of the Nintendo 64 console.
-	Back cover includes box art sourced from StickPNG:
+	Back cover includes box arts sourced online, character scans from StickPNG:
 	**Image Credit:** [Free Transparent PNG Images, Stickers & No Background Clipart - StickPNG](https://www.stickpng.com)
