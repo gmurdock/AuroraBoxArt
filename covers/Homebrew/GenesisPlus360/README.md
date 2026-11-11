@@ -10,10 +10,21 @@
 
 ---
 
-- Title: GenesisPlus360-SEGAClassics_gmurdock
+- Title: GenesisPlus360-SEGA-Blue_gm
+- Author: gmurdock
+- Date of submission: 2026-11-11
+- Author Notes
+	Custom cover featuring a high-quality scan of the Sega Mega Drive/Genesis console.
+	Custom-made "Mega Drive" logo.
+	Sega Mega Drive logo scan sourced from DeviantArt:
+	**Image Credit:** [blueamnesiac - Sega Mega Drive Logo](https://www.deviantart.com/blueamnesiac/art/Sega-Mega-Drive-Logo-448551342)
+
+---
+
+- Title: GenesisPlus360-SEGAClassics_gm
 - Author: gmurdock
 - Date of submission: 2025-08-22
-- Author Notes  
-	Custom cover featuring a high-quality scan of the Sega Mega Drive/Genesis console.  
-	Back cover includes box art sourced from the following DeviantArt post:  
-	**Image Credit:** [gikestheASD – Sega Mega Drive Classic 16-bit Games](https://www.deviantart.com/gikestheasd/art/Sega-Mega-Drive-Classic-16-bit-Games-943403311)  
+- Author Notes
+	Custom cover featuring a high-quality scan of the Sega Mega Drive/Genesis console.
+	Back cover includes box art sourced from the DeviantArt:
+	**Image Credit:** [gikestheASD – Sega Mega Drive Classic 16-bit Games](https://www.deviantart.com/gikestheasd/art/Sega-Mega-Drive-Classic-16-bit-Games-943403311)
