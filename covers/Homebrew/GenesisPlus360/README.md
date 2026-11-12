@@ -20,6 +20,7 @@
 	**Box Arts:** [gikestheASD – Sega Mega Drive Classic 16-bit Games](https://www.deviantart.com/gikestheasd/art/Sega-Mega-Drive-Classic-16-bit-Games-943403311)
 	Sega Mega Drive logo scan sourced from DeviantArt:
 	**Logo:** [blueamnesiac - Sega Mega Drive Logo](https://www.deviantart.com/blueamnesiac/art/Sega-Mega-Drive-Logo-448551342)
+
 Features console and character designs © SEGA, used under fair use for non-commercial, transformative fan content.
 
 ---
@@ -34,6 +35,7 @@ Features console and character designs © SEGA, used under fair use for non-comm
 	**Box Arts:** [gikestheASD – Sega Mega Drive Classic 16-bit Games](https://www.deviantart.com/gikestheasd/art/Sega-Mega-Drive-Classic-16-bit-Games-943403311)
 	Sega Mega Drive logo scan sourced from DeviantArt:
 	**Logo:** [blueamnesiac - Sega Mega Drive Logo](https://www.deviantart.com/blueamnesiac/art/Sega-Mega-Drive-Logo-448551342)
+
   Features console and character designs © SEGA, used under fair use for non-commercial, transformative fan content.
 
 ---
@@ -45,4 +47,5 @@ Features console and character designs © SEGA, used under fair use for non-comm
 	Custom cover featuring a high-quality scan of the Sega Mega Drive/Genesis console.
 	Back cover includes box art sourced from the DeviantArt:
 	**Image Credit:** [gikestheASD – Sega Mega Drive Classic 16-bit Games](https://www.deviantart.com/gikestheasd/art/Sega-Mega-Drive-Classic-16-bit-Games-943403311)
+
 Features console and character designs © SEGA, used under fair use for non-commercial, transformative fan content.
