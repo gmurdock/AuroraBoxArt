@@ -10,6 +10,17 @@
 
 ---
 
+- Title: SNES360-NintendoClassics-Ice_gm
+- Author: gmurdock
+- Date of submission: 2026-11-12
+- Author Notes
+	Custom cover featuring a high-quality scan of the Nintendo Super Entertainment System console.
+	White 'Ice' variant of NintendoClassics.
+	Back cover designed and produced by author.
+	Features console and character designs © Nintendo, used under fair use for non-commercial, transformative fan content.
+
+---
+
 - Title: SNES360-NintendoClassics_gm
 - Author: gmurdock
 - Date of submission: 2025-08-22
