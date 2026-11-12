@@ -36,7 +36,7 @@ Features console and character designs © SEGA, used under fair use for non-comm
 	Sega Mega Drive logo scan sourced from DeviantArt:
 	**Logo:** [blueamnesiac - Sega Mega Drive Logo](https://www.deviantart.com/blueamnesiac/art/Sega-Mega-Drive-Logo-448551342)
 
-  Features console and character designs © SEGA, used under fair use for non-commercial, transformative fan content.
+Features console and character designs © SEGA, used under fair use for non-commercial, transformative fan content.
 
 ---
 
